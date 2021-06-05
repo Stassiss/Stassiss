@@ -14,8 +14,6 @@ I am a Software Developer from Latvia , who likes to learn something new every d
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stassiss)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Stassiss)  
-
 
 
 
