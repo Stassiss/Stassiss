@@ -1,6 +1,6 @@
 
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Janis
-I am a Software Developer, who likes to learn new Problem Solving Techniques every day 
+#I am a Software Developer, who likes to learn new Problem Solving Techniques every day 
 Currently my main problem solving tool is C#,but i am familiar with other languages as well
 
 ---
